@@ -1,1 +1,1 @@
-# repititive-action
+# Find repetitive actions in video
